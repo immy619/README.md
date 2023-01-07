@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apple of Eden</h1>
 <h3 align="center">Just a general Script Oldie</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Don't Connect with me... It isn't worth it:</h3>
 <p align="left">
 </p>
 
